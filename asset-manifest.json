@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.832dd218.css",
-    "main.js": "/portfolio/static/js/main.7a447a32.js",
+    "main.js": "/portfolio/static/js/main.5a489e5f.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/inspiredLearningAi.webp": "/portfolio/static/media/inspiredLearningAi.d7ec71d91d1b7008aff7.webp",
     "static/media/Dhave-Barsalote-Resume.pdf": "/portfolio/static/media/Dhave-Barsalote-Resume.0f589138ea2ca32bb513.pdf",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.832dd218.css.map": "/portfolio/static/css/main.832dd218.css.map",
-    "main.7a447a32.js.map": "/portfolio/static/js/main.7a447a32.js.map",
+    "main.5a489e5f.js.map": "/portfolio/static/js/main.5a489e5f.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.832dd218.css",
-    "static/js/main.7a447a32.js"
+    "static/js/main.5a489e5f.js"
   ]
 }
